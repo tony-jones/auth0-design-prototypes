@@ -1,7 +1,5 @@
 # Auth0-prototypes
 
-[![license][license-image]][license-url] [![Build Status][travis-image]][travis-url] 
-
 > repo for prototyping ideas and interactions
 
 ## Prerequisites
