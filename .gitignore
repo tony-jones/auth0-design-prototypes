@@ -7,6 +7,49 @@
 
 # Node packages
 node_modules/
+bower_components
 
-# Site Directory
+# Jekyll 
+Gemfile.lock
 _site/
+
+### NPM ###
+package-lock.json
+
+### Linux ###
+*~
+.Trash-*
+
+### OSX ###
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+### Sass ###
+.sass-cache/
+*.css.map
+
+### Linux ###
+*~
+
+### Ignore packages ###
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+### Always-ignore files and folders ###
+*.diff
+*.err
+*.log
+*.orig
+*.rej
+*.swn
+*.swo
+*.swp
+._*
+*~
