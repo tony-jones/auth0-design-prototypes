@@ -1,0 +1,39 @@
+/**
+ * Fonts
+ */
+
+ @font-face {
+  font-family: 'Fakt Pro';
+  font-style: normal;
+  font-weight: 300;
+  src: url('../fonts/fakt-pro/FaktPro-Light.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/fakt-pro/FaktPro-Light.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/fakt-pro/FaktPro-Light.woff') format('woff'); /* Modern Browsers */
+}
+  
+@font-face {
+  font-family: 'Fakt Pro';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/fakt-pro/FaktPro-Normal.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/fakt-pro/FaktPro-Normal.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/fakt-pro/FaktPro-Normal.woff') format('woff'); /* Modern Browsers */
+}
+  
+@font-face {
+  font-family: 'Fakt Pro';
+  font-style: normal;
+  font-weight: 500;
+  src: url('../fonts/fakt-pro/FaktPro-Medium.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/fakt-pro/FaktPro-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/fakt-pro/FaktPro-Medium.woff') format('woff'); /* Modern Browsers */
+}
+  
+@font-face {
+  font-family: 'Fakt Pro';
+  font-style: normal;
+  font-weight: 700;
+  src: url('../fonts/fakt-pro/FaktPro-SemiBold.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/fakt-pro/FaktPro-SemiBold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+        url('../fonts/fakt-pro/FaktPro-SemiBold.woff') format('woff'); /* Modern Browsers */
+}

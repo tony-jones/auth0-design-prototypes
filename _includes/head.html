@@ -1,0 +1,13 @@
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width" initial-scale="1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <meta name="description" content="{{ site.description }}">
+  <meta name="theme-color" content="#424242">
+
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+  <link rel="stylesheet" href="/assets/css/main.min.css?rev={{ site.time | date: '%s' }}">
+  <!-- Add external JS here-->
+</head>
